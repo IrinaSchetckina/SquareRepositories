@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Square Repositories</string>
+    <string name="owner_data">Owner: %s</string>
+    <string name="language_data">Language: %s</string>
+    <string name="unknown">Unknown</string>
+    <string name="forks_data">Forks: %s</string>
+    <string name="watchers_data">Watchers: %d</string>
+    <string name="created_date">Created at: %s</string>
+    <string name="updated_date">Updated at: %s</string>
+</resources>
